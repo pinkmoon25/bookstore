@@ -1,7 +1,13 @@
-# Bookstore
+### Bookstore 📚
 
- Bookstore is a website for Adding your favourite books and keep track of books you need.
- Add your books and create a booklist.
+Bookstore is a web application where you can add and organize your favorite books, keeping track of what you own and what you plan to read. Create personalized booklists to manage your collection effortlessly.
+
+### Features:
+- Add books to your collection
+- Create and manage custom booklists
+- Track books you've read and want to read
+
+---
 
 ## Built With
 
